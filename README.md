@@ -1,13 +1,13 @@
-### analise_de_dados1 notebook
+### [analise_de_dados1 notebook]
 - Dados numéricos
     - Pré processamento
         - Exemplos [scikit learn]
     - Processamento
-
-[scikit learn]: <http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html>
-
-### analise_de_dados2 notebook
+    
+### [analise_de_dados2 notebook]
 - Dados Categóricos
+
+
 
 > Beautiful is better than ugly. \
 > Explicit is better than implicit. \
@@ -28,3 +28,8 @@
 > If the implementation is hard to explain, it's a bad idea.  \
 > If the implementation is easy to explain, it may be a good idea.  \
 > Namespaces are one honking great idea -- let's do more of those!  
+
+[scikit learn]: <http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html>
+[analise_de_dados1 notebook]: <https://github.com/brendasalenave/data_analysis/blob/master/analise_de_dados1.ipynb>
+[analise_de_dados2 notebook]: <https://github.com/brendasalenave/data_analysis/blob/master/analise_de_dados2.ipynb>
+
