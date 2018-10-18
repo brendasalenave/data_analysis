@@ -7,6 +7,8 @@
 ### [analise_de_dados2 notebook]
 - Dados Categóricos
 
+
+
 > Beautiful is better than ugly. \
 > Explicit is better than implicit. \
 > Simple is better than complex. \
