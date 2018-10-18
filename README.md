@@ -4,7 +4,7 @@
         - Exemplos [scikit learn]
     - Processamento
     
-### analise_de_dados2 notebook
+### [analise_de_dados2 notebook]
 - Dados Categóricos
 
 > Beautiful is better than ugly. \
@@ -30,3 +30,4 @@
 [scikit learn]: <http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html>
 [analise_de_dados1 notebook]: <https://github.com/brendasalenave/data_analysis/blob/master/analise_de_dados1.ipynb>
 [analise_de_dados2 notebook]: <https://github.com/brendasalenave/data_analysis/blob/master/analise_de_dados2.ipynb>
+
