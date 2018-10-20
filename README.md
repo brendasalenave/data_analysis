@@ -6,9 +6,18 @@
     
 ### [analise_de_dados2 notebook]
 - Dados Categóricos
+- Análise de Tópicos
+    - LDA
+- Visualização
 
+### [analise_de_dados3 notebook]
+- Dados numéricos
+- Pré processamento
+- Processamento
+    - Algoritmos de Classificação
+- Visualização
 
-
+## Zen of Python
 > Beautiful is better than ugly. \
 > Explicit is better than implicit. \
 > Simple is better than complex. \
@@ -32,4 +41,5 @@
 [scikit learn]: <http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html>
 [analise_de_dados1 notebook]: <https://github.com/brendasalenave/data_analysis/blob/master/analise_de_dados1.ipynb>
 [analise_de_dados2 notebook]: <https://github.com/brendasalenave/data_analysis/blob/master/analise_de_dados2.ipynb>
+[analise_de_dados3 notebook]: <https://github.com/brendasalenave/data_analysis/blob/master/analise_de_dados3.ipynb>
 
