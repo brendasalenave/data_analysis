@@ -39,7 +39,7 @@
 > Namespaces are one honking great idea -- let's do more of those!  
 
 [scikit learn]: <http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html>
-[Notebook: analise_de_dados1: <https://github.com/brendasalenave/data_analysis/blob/master/analise_de_dados1.ipynb>
+[Notebook: analise_de_dados1]: <https://github.com/brendasalenave/data_analysis/blob/master/analise_de_dados1.ipynb>
 [Notebook: analise_de_dados2]: <https://github.com/brendasalenave/data_analysis/blob/master/analise_de_dados2.ipynb>
 [Notebook: analise_de_dados3]: <https://github.com/brendasalenave/data_analysis/blob/master/analise_de_dados3.ipynb>
 
