@@ -1,14 +1,23 @@
-### [analise_de_dados1 notebook]
+### [Notebook: analise_de_dados1]
 - Dados numéricos
     - Pré processamento
         - Exemplos [scikit learn]
     - Processamento
     
-### [analise_de_dados2 notebook]
+### [Notebook: analise_de_dados2]
 - Dados Categóricos
+- Análise de Tópicos
+    - LDA
+- Visualização
 
+### [Notebook: analise_de_dados3]
+- Dados numéricos
+- Pré processamento
+- Processamento
+    - Algoritmos de Classificação
+- Visualização
 
-
+## Zen of Python
 > Beautiful is better than ugly. \
 > Explicit is better than implicit. \
 > Simple is better than complex. \
@@ -30,6 +39,7 @@
 > Namespaces are one honking great idea -- let's do more of those!  
 
 [scikit learn]: <http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html>
-[analise_de_dados1 notebook]: <https://github.com/brendasalenave/data_analysis/blob/master/analise_de_dados1.ipynb>
-[analise_de_dados2 notebook]: <https://github.com/brendasalenave/data_analysis/blob/master/analise_de_dados2.ipynb>
+[Notebook: analise_de_dados1]: <https://github.com/brendasalenave/data_analysis/blob/master/analise_de_dados1.ipynb>
+[Notebook: analise_de_dados2]: <https://github.com/brendasalenave/data_analysis/blob/master/analise_de_dados2.ipynb>
+[Notebook: analise_de_dados3]: <https://github.com/brendasalenave/data_analysis/blob/master/analise_de_dados3.ipynb>
 
